@@ -1,6 +1,6 @@
 <h2 align="center">👋, I'm Sodium</h1>
 
-I've been learning to code for 4 years! I know Python, JS, HTML, CSS, PHP. I've basic knowledge about Cryptography!
+I've been learning to code for 4 years! I know Python well and I've basic knowledge about Cryptography!
 
 *   🌍  I'm based in **Germany**
 *   ✉️  You can contact me at **[sodium.pro1@gmail.com](mailto:sodium.pro1@gmail.com)**
