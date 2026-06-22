@@ -4,8 +4,7 @@ I've been learning to code for 4 years! I know Python well and I've basic knowle
 
 *   🌍  I'm based in **Germany**
 *   ✉️  You can contact me at **[sodium.pro1@gmail.com](mailto:sodium.pro1@gmail.com)**
-*   🧠  I'm learning **Django**
-*   🤝  I'm open to collaborating on **all projects**
+*   🧠  I'm learning **NEXT.JS**
 *   ⚡  I'm **Roman** and **15 y.o.**<br><br><a href="https://www.github.com/sodiumYT" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/sodiumYT?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><p align="left"> <img src="https://komarev.com/ghpvc/?username=sodiumYT&color=blueviolet&style=for-the-badge" alt="sodiumYT" /> </p><h3>Skills</h3>
 <div data-importer="techs" align="left">
